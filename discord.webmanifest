@@ -1,0 +1,14 @@
+{
+  "start_url": "https://discord.com/",
+  "scope": "https://discord.com/",
+  "name": "Discord",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/alchzh/pwa-manifests/discord.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon",
+      "purpose":"any"
+    }
+  ],
+  "theme_color": "#202225"
+}
